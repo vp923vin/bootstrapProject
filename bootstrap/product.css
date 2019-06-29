@@ -1,0 +1,274 @@
+.divs01 {
+	height: 537px;
+}
+
+
+
+.Product1 {
+
+	float: right;
+	position: relative;
+	background-color: rgba(51,51,51);
+	margin-top:-200px;
+	width: 285px;
+	height: 540px;
+	border-radius: 21px;
+	transform: rotate(30deg);
+	margin-right: 116px; 
+
+}
+
+.Product1::before {
+
+	position: absolute;
+	top: 10%;
+	right:10px;
+	bottom: 10%;
+	left:10px;
+	content: " ";
+	background-color: rgba(255,255,255,.2);
+	border-radius: 5px;
+}
+
+.Product2 {
+
+	float: left;
+	position: relative;
+	background-color:#e5e5e5;
+	margin-top:-500px;
+	width: 285px;
+	height: 540px;
+	border-radius: 21px;
+	transform: rotate(30deg);
+	margin-left:80px; 
+
+}
+
+.Product2::before {
+
+    position: absolute;
+    top: 10%;
+	right:10px;
+	bottom: 10%;
+	left:10px;
+	content: " ";
+	background-color: rgba(255,255,255,.1);
+	border-radius: 5px;
+}
+
+.divs02 {
+	height:450px;
+}
+
+
+.Product3 {
+
+	float: left;
+	position: relative;
+	background-color:#343a40;
+	
+	width: 645px;
+	height: 540px;
+    
+	
+	 
+
+}
+
+.Product3::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color: rgba(255,255,255,1);
+	border-radius: 15px;
+}
+
+.Product4 {
+
+	float: right;
+	position: relative;
+	background-color: rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product4::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:#343a40; 
+	border-radius: 15px;
+}
+
+.divs03 {
+	height:450px;
+}
+
+.Product5 {
+
+	float: left;
+	position: relative;
+	background-color: rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product5::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:#343a40; 
+	border-radius: 15px;
+}
+
+.Product6 {
+
+	float: right;
+	position: relative;
+	background-color:#007bff; 	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product6::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:rgba(240,240,240,1); 
+	border-radius: 15px;
+}
+
+.divs04 {
+	height:450px;
+}
+
+.Product7 {
+
+	float: left;
+	position: relative;
+	background-color: rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product7::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:white; 
+	border-radius: 15px;
+	box-shadow: 10px;
+}
+
+.Product8 {
+
+	float: right;
+	position: relative;
+	background-color:rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product8::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:white; 
+	border-radius: 15px;
+}
+
+
+.Product7 {
+
+	float: left;
+	position: relative;
+	background-color: rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product7::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:white; 
+	border-radius: 15px;
+	box-shadow: 10px;
+}
+
+.Product8 {
+
+	float: right;
+	position: relative;
+	background-color:rgba(180,180,180,.1);	
+	width: 645px;
+	height: 540px;
+	
+	
+	 
+
+}
+
+.Product8::before {
+
+    position: absolute;
+    top: 30%;
+	right:90px;
+	bottom: 10%;
+	left:90px;
+	content: " ";
+	background-color:white; 
+	border-radius: 15px;
+}
